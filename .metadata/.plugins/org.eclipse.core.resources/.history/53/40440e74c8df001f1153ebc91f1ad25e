@@ -1,0 +1,5 @@
+package com.PM.Repository;
+
+public interface ProductRepository {
+
+}
